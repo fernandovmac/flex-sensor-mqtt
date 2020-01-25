@@ -8,5 +8,5 @@ Using a board Feather M0 and two sensors: a FSR and a Flex sensor. The wiring is
 
 ##### Software Description
 
-By activating the WiFi pins, the connection to the network is manages through the WiFi101 library. The two analog pins read the restistance of the sensors. The PubSub library handles the MQTT communication with the system. A visualisation of the Pod order is done in V4 (still to be incliuded in this repo)
+By activating the WiFi pins, the connection to the network is manages through the WiFi101 library. The two analog pins read the restistance of the sensors. The PubSub library handles the MQTT communication with the system.
 
